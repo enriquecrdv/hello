@@ -1,0 +1,13 @@
+C:\Users\Enrique\Desktop\Saludar\Holamundo\Holamundo\obj\Debug\Holamundo.csproj.AssemblyReference.cache
+C:\Users\Enrique\Desktop\Saludar\Holamundo\Holamundo\bin\Debug\Holamundo.exe.config
+C:\Users\Enrique\Desktop\Saludar\Holamundo\Holamundo\bin\Debug\Holamundo.exe
+C:\Users\Enrique\Desktop\Saludar\Holamundo\Holamundo\bin\Debug\Holamundo.pdb
+C:\Users\Enrique\Desktop\Saludar\Holamundo\Holamundo\obj\Debug\Holamundo.Form1.resources
+C:\Users\Enrique\Desktop\Saludar\Holamundo\Holamundo\obj\Debug\Holamundo.Properties.Resources.resources
+C:\Users\Enrique\Desktop\Saludar\Holamundo\Holamundo\obj\Debug\Holamundo.csproj.GenerateResource.cache
+C:\Users\Enrique\Desktop\Saludar\Holamundo\Holamundo\obj\Debug\Holamundo.csproj.CoreCompileInputs.cache
+C:\Users\Enrique\Desktop\Saludar\Holamundo\Holamundo\obj\Debug\Holamundo.exe
+C:\Users\Enrique\Desktop\Saludar\Holamundo\Holamundo\obj\Debug\Holamundo.pdb
+C:\Users\Enrique\Desktop\Holamundo\Holamundo\obj\Debug\Holamundo.csproj.AssemblyReference.cache
+C:\Users\Enrique\Desktop\Holamundo\Holamundo\obj\Debug\Holamundo.exe
+C:\Users\Enrique\Desktop\Holamundo\Holamundo\obj\Debug\Holamundo.pdb
